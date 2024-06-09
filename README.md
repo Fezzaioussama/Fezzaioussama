@@ -34,8 +34,9 @@
 [![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=matlab)](https://www.mathworks.com/products/matlab.html)&nbsp;
 [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=deeplearning)](https://deepai.org/)&nbsp;
 [![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=computervision)](https://opencv.org/)&nbsp;
-[![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)](https://html.spec.whatwg.org/)&nbsp;
-[![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)](https://www.w3.org/Style/CSS/)&nbsp;
+[![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)](https://www.mysql.com/)&nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)](https://www.mysql.com/)&nbsp;
+[![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)](https://aws.amazon.com/)&nbsp;
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)](https://visualstudio.microsoft.com/)&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)&nbsp;
 
